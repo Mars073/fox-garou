@@ -8,13 +8,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/Mars073/fox-garou">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/logo.svg" alt="Logo" width="360" height="170">
   </a>
 
-  <h3 align="center">Fox garou</h3>
+  <h3 align="center">Fox Garou</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    The "Fox Garou" is a parody of [The Werewolves of Millers Hollow](https://en.wikipedia.org/wiki/The_Werewolves_of_Millers_Hollow), created for the personal purpose of learning how to use Three.js and have fun. 🦊
     <br />
     <a href="http://fox.m-leroy.pro/">View Demo</a>
     ·
