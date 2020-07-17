@@ -1,0 +1,19 @@
+
+.icon-screen-full:before { content: '\e800'; } /* '' */
+.icon-screen-normal:before { content: '\e801'; } /* '' */
+.icon-settings:before { content: '\e802'; } /* '' */
+.icon-volume-off:before { content: '\e803'; } /* '' */
+.icon-volume-low:before { content: '\e804'; } /* '' */
+.icon-volume-mid:before { content: '\e805'; } /* '' */
+.icon-volume-high:before { content: '\e806'; } /* '' */
+.icon-resolution:before { content: '\e807'; } /* '' */
+.icon-renderer:before { content: '\e808'; } /* '' */
+.icon-warning:before { content: '\e809'; } /* '' */
+.icon-aliasing:before { content: '\e80a'; } /* '' */
+.icon-cancel:before { content: '\e80b'; } /* '' */
+.icon-next:before { content: '\e80c'; } /* '' */
+.icon-network:before { content: '\e80d'; } /* '' */
+.icon-checked:before { content: '\e80e'; } /* '' */
+.icon-up:before { content: '\e80f'; } /* '' */
+.icon-down:before { content: '\e810'; } /* '' */
+.icon-previous:before { content: '\e811'; } /* '' */
