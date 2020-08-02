@@ -1,4 +1,4 @@
-export const DOMAIN = 'localhost'
+export const DOMAIN = process.env.NODE_ENV === 'production' ? 'fox.m-leroy.pro' : 'localhost'
 
 export const LATENCY_AVG_SIZE = 5
 export const CHAT_SIZE = 32
